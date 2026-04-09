@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.6.0",
-    "generatedAt": "2026-03-27T05:13:17.962Z",
+    "version": "1.7.0",
+    "generatedAt": "2026-04-09T01:17:02.627Z",
     "templateType": "full_banner_wipe",
     "propertyId": "58063d69-76aa-4d46-bf48-0198b31cd587",
     "homepageId": "37782c0a-9c6f-4e88-8d87-e356288e2930"
@@ -39,10 +39,10 @@
       "펜션"
     ],
     "businessInfo": {
-      "businessName": "만드는중",
-      "businessNumber": "123-45-67890",
+      "businessName": "영흥도 정원스테이",
+      "businessNumber": "474-12-02949",
       "representativeName": "한명숙",
-      "businessAddress": "인천 옹진군 영흥면 영흥북로 273",
+      "businessAddress": "인천 옹진군 영흥면 영흥북로 273,271",
       "businessPhone": "010-2479-7661",
       "businessEmail": "0000@naver.com",
       "businessType": "individual",
@@ -302,7 +302,7 @@
       "usageGuide": "[애견동반 가능]\n- 이용 객실: A동\n- 이용 요금: 1마리당 20,000원 (1박기준/현장결제)\n※ 애견 비품은 개별지참 하셔야 합니다. \n※ 사람 또는 반려견에게 심한 공격성을 보이거나 공격한 반려견은 입실 불가합니다.",
       "group": "A동(독채, 개별바베큐, 애견동반가능)",
       "size": 99.17,
-      "baseOccupancy": 4,
+      "baseOccupancy": 6,
       "maxOccupancy": 10,
       "totalRoomCount": {
         "bedroom": 2,
@@ -357,7 +357,7 @@
       "usageGuide": "애견동반 불가 객실",
       "group": "B동(독채, 개별바베큐)",
       "size": 99.17,
-      "baseOccupancy": 4,
+      "baseOccupancy": 6,
       "maxOccupancy": 10,
       "totalRoomCount": {
         "bedroom": 2,
@@ -1389,6 +1389,7 @@
           ]
         }
       ]
-    }
+    },
+    "id": "37782c0a-9c6f-4e88-8d87-e356288e2930"
   }
 }
