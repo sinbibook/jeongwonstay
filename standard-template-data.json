@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.7.0",
-    "generatedAt": "2026-04-09T01:17:02.627Z",
+    "version": "1.8.0",
+    "generatedAt": "2026-04-13T02:47:58.761Z",
     "templateType": "full_banner_wipe",
     "propertyId": "58063d69-76aa-4d46-bf48-0198b31cd587",
     "homepageId": "37782c0a-9c6f-4e88-8d87-e356288e2930"
@@ -291,7 +291,7 @@
     "nameEn": "Yeongheungdo Jeongwon Stay",
     "domain": "jeongwonstay.kr",
     "realtimeBookingId": "https://www.bookingplay.co.kr/booking/1/10889",
-    "ybsId": ""
+    "ybsId": "79881"
   },
   "rooms": [
     {
