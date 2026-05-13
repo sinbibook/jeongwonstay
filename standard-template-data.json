@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.10.0",
-    "generatedAt": "2026-05-13T04:21:01.020590486Z",
+    "version": "1.11.0",
+    "generatedAt": "2026-05-13T04:23:49.940411975Z",
     "templateType": "full_banner_wipe",
     "propertyId": "58063d69-76aa-4d46-bf48-0198b31cd587",
     "homepageId": "37782c0a-9c6f-4e88-8d87-e356288e2930"
@@ -682,8 +682,8 @@
                 "title": " 오시는 길",
                 "images": [
                   {
-                    "id": "749fbfc0-fc25-443b-bbed-77073b5a420e",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/37782c0a-9c6f-4e88-8d87-e356288e2930/directions_hero/1770252083388-xehbwj2esxp.jpg",
+                    "id": "23248509-e8ae-45cb-8f9e-dc7b8f60285d",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/37782c0a-9c6f-4e88-8d87-e356288e2930/directions_hero/1778646224809-glkykupoqe.jpg",
                     "sortOrder": 0,
                     "description": "",
                     "isSelected": true,
@@ -705,8 +705,8 @@
                 "title": " ",
                 "images": [
                   {
-                    "id": "b7181d19-78e2-425d-a113-7416f7d02098",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/37782c0a-9c6f-4e88-8d87-e356288e2930/main_hero/1770251953656-lcwq6vhba7n.jpg",
+                    "id": "4b90358a-e854-4afd-8852-8881de17b556",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/37782c0a-9c6f-4e88-8d87-e356288e2930/main_hero/1778646224802-5qrpaqi5la.jpg",
                     "sortOrder": 0,
                     "description": "",
                     "isSelected": true,
@@ -831,10 +831,10 @@
                 "title": " ",
                 "images": [
                   {
-                    "id": "2e84644a-545b-4958-baee-4971bdfe2014",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/37782c0a-9c6f-4e88-8d87-e356288e2930/reservation_hero/1770254756944-38eog9t7dhw.jpg",
+                    "id": "cbc827dc-4bfd-46b5-8056-d0fd4d241555",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/37782c0a-9c6f-4e88-8d87-e356288e2930/reservation_hero/1778646196737-iilkvuqb43.jpg",
                     "sortOrder": 0,
-                    "description": " ",
+                    "description": "",
                     "isSelected": true,
                     "blockId": null
                   }
