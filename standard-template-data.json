@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.12.0",
-    "generatedAt": "2026-05-13T04:24:54.507091553Z",
+    "version": "1.13.0",
+    "generatedAt": "2026-05-18T05:17:48.021064225Z",
     "templateType": "full_banner_wipe",
     "propertyId": "58063d69-76aa-4d46-bf48-0198b31cd587",
     "homepageId": "37782c0a-9c6f-4e88-8d87-e356288e2930"
@@ -74,32 +74,32 @@
         "displayOrder": 83,
         "images": [
           {
-            "id": "f1e60685-b7c2-4b43-9424-14b4ca263451",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/17ea4364-0041-4783-8a76-5c3d2cabfe7b/main/1770172739628-bo5t8rzygd.jpg",
+            "id": "68581feb-8c1a-466b-b2c4-2db8ca6d6556",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/17ea4364-0041-4783-8a76-5c3d2cabfe7b/main/1778646448393-ihf1sw357f.jpg",
             "sortOrder": 0,
             "description": "",
             "isSelected": true,
             "blockId": null
           },
           {
-            "id": "379e180f-caf8-4a91-8d50-590b676e61ed",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/17ea4364-0041-4783-8a76-5c3d2cabfe7b/main/1770172739628-djpo7gx21am.jpg",
+            "id": "4d122407-4525-4581-b39c-124408ba4980",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/17ea4364-0041-4783-8a76-5c3d2cabfe7b/main/1778646448398-j13l1zo79a.jpg",
             "sortOrder": 1,
             "description": "",
             "isSelected": true,
             "blockId": null
           },
           {
-            "id": "9f2b0663-7ab0-438f-a224-bf7f2b7d5535",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/17ea4364-0041-4783-8a76-5c3d2cabfe7b/main/1770172739629-0lqcepvzyqub.jpg",
+            "id": "d4f1ceea-9628-4e5f-8e7d-086fadb307ba",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/17ea4364-0041-4783-8a76-5c3d2cabfe7b/main/1778646448397-9sn0ucvent.jpg",
             "sortOrder": 2,
             "description": "",
             "isSelected": true,
             "blockId": null
           },
           {
-            "id": "c1fba324-c7b9-48d0-ab69-35e1497684f2",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/17ea4364-0041-4783-8a76-5c3d2cabfe7b/main/1770172739629-s6260jpoz7.jpg",
+            "id": "89d3fd82-d991-4e54-b898-bcf85e36a688",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/17ea4364-0041-4783-8a76-5c3d2cabfe7b/main/1778646448400-xvt1ip3jxi.jpg",
             "sortOrder": 3,
             "description": "",
             "isSelected": true,
@@ -115,17 +115,49 @@
         "displayOrder": 84,
         "images": [
           {
-            "id": "d14d7dae-de47-4f66-8674-c5f5445826a4",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/fd45ccb7-bb4b-4026-8bdc-a96092a730ac/main/1770252320339-xfr2hid3b6.jpg",
+            "id": "28637d75-dbed-4301-82c3-d0b4983416ea",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/fd45ccb7-bb4b-4026-8bdc-a96092a730ac/main/1778646449221-mhja43ium1.jpg",
             "sortOrder": 0,
             "description": "",
             "isSelected": true,
             "blockId": null
           },
           {
-            "id": "5cf4a2fc-b972-4b7c-876d-ba5337680547",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/fd45ccb7-bb4b-4026-8bdc-a96092a730ac/main/1770252320339-54hogn12vq6.jpg",
+            "id": "d0741dd8-5f34-493b-882e-658ad2908f8f",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/fd45ccb7-bb4b-4026-8bdc-a96092a730ac/main/1778646449222-i084ca6vsc.jpg",
             "sortOrder": 1,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "254f063b-509c-4da8-80d1-cfeced53ba4a",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/fd45ccb7-bb4b-4026-8bdc-a96092a730ac/main/1778646449229-4h0s3ud5ua.jpg",
+            "sortOrder": 2,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "c926ef5f-b0cb-4eca-a452-f27c343da3d3",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/fd45ccb7-bb4b-4026-8bdc-a96092a730ac/main/1778646449223-tnje5x875d.jpg",
+            "sortOrder": 3,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "afac7495-8554-434b-aff9-a38e3750d817",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/fd45ccb7-bb4b-4026-8bdc-a96092a730ac/main/1778646449224-6bjuagu416.jpg",
+            "sortOrder": 4,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "1baf0d98-f323-4da0-8886-4bf7cb64deea",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/fd45ccb7-bb4b-4026-8bdc-a96092a730ac/main/1778646449239-b8xvag6ce4.jpg",
+            "sortOrder": 5,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -134,6 +166,22 @@
       }
     ],
     "refundPolicies": [
+      {
+        "refundProcessingDays": 3,
+        "refundRate": 30
+      },
+      {
+        "refundProcessingDays": 2,
+        "refundRate": 20
+      },
+      {
+        "refundProcessingDays": 1,
+        "refundRate": 10
+      },
+      {
+        "refundProcessingDays": 0,
+        "refundRate": 0
+      },
       {
         "refundProcessingDays": 9,
         "refundRate": 90
@@ -157,22 +205,6 @@
       {
         "refundProcessingDays": 4,
         "refundRate": 40
-      },
-      {
-        "refundProcessingDays": 3,
-        "refundRate": 30
-      },
-      {
-        "refundProcessingDays": 2,
-        "refundRate": 20
-      },
-      {
-        "refundProcessingDays": 1,
-        "refundRate": 10
-      },
-      {
-        "refundProcessingDays": 0,
-        "refundRate": 0
       }
     ],
     "refundSettings": {
@@ -196,7 +228,7 @@
           {
             "id": "0e1f3349-8873-47b3-b5c6-fa2d027d31f8",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/58063d69-76aa-4d46-bf48-0198b31cd587/exterior/1773048145763-3pc8f7ol6xb.jpg",
-            "sortOrder": 1,
+            "sortOrder": 0,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -312,7 +344,7 @@
     ],
     "nameEn": "Yeongheungdo Jeongwon Stay",
     "domain": "jeongwonstay.kr",
-    "realtimeBookingId": "https://www.bookingplay.co.kr/booking/1/10889",
+    "realtimeBookingId": "https://map.naver.com/p/entry/place/2025728365",
     "ybsId": "79881"
   },
   "rooms": [
@@ -617,8 +649,8 @@
                     "blockId": null
                   }
                 ],
-                "description": "영흥도에 새롭게 문을 연 신축 독채 펜션, \n반려견과 함께 머무를 수 있는 프라이빗한 공간입니다.\n\n객실마다 준비된 개별 바베큐 공간에서 \n사랑하는 이들과 여유로운 하루를 완성해보세요.",
-                "videos": [ ]
+                "videos": [ ],
+                "description": "영흥도에 새롭게 문을 연 신축 독채 펜션, \n반려견과 함께 머무를 수 있는 프라이빗한 공간입니다.\n\n객실마다 준비된 개별 바베큐 공간에서 \n사랑하는 이들과 여유로운 하루를 완성해보세요."
               },
               "gallery": {
                 "title": "Preview",
@@ -664,8 +696,8 @@
                     "blockId": null
                   }
                 ],
-                "description": "영흥도 정원스테이에서 여유로운 하루를 천천히 즐겨보세요.",
-                "videos": [ ]
+                "videos": [ ],
+                "description": "영흥도 정원스테이에서 여유로운 하루를 천천히 즐겨보세요."
               },
               "signature": {
                 "title": "",
